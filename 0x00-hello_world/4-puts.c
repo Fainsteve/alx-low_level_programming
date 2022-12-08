@@ -2,7 +2,7 @@
 /**
  * main - Print a line of code using puts
  *
- *Description: 'this is c'
+ * Description: 'this is c'
  *
  * Return: 0
 */
