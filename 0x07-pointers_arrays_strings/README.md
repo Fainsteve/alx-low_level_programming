@@ -1,1 +1,0 @@
-About pointers and all
